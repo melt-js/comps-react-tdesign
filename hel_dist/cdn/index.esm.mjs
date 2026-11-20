@@ -1,16 +1,1 @@
-import { exposeLib } from 'hel-lib-proxy';
-
-/*
-|--------------------------------------------------------------------------
-|
-| 对应 package.json/appGroupName
-|
-|--------------------------------------------------------------------------
-*/
-var LIB_NAME = 'comps-react-tdesign';
-
-var lib = exposeLib(LIB_NAME);
-var comps = lib;
-var MyComp = lib.MyComp;
-
-export { MyComp, comps, lib as default, lib };
+import{exposeLib as r}from"hel-lib-proxy";var a="comps-react-tdesign",o=r(a),p=o,e=o.MyComp;export{e as MyComp,p as comps,o as default,o as lib};

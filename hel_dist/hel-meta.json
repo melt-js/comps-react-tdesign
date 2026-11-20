@@ -22,11 +22,11 @@
       ],
       "chunkJsSrcList": [
         "/comps-react-tdesign/hel_dist/hel_userChunk_1.js",
-        "/comps-react-tdesign/hel_dist/static/js/runtime.92d22539.js",
-        "/comps-react-tdesign/hel_dist/static/js/vendor.b3119735.chunk.js",
-        "/comps-react-tdesign/hel_dist/static/js/main.a4658b08.chunk.js",
-        "/comps-react-tdesign/hel_dist/static/js/3.8d262420.chunk.js",
-        "/comps-react-tdesign/hel_dist/static/js/4.38e1d3ff.chunk.js"
+        "/comps-react-tdesign/hel_dist/static/js/runtime.372f21e9.js",
+        "/comps-react-tdesign/hel_dist/static/js/vendor.7e246cb4.chunk.js",
+        "/comps-react-tdesign/hel_dist/static/js/main.3a8827d3.chunk.js",
+        "/comps-react-tdesign/hel_dist/static/js/3.d16d95ad.chunk.js",
+        "/comps-react-tdesign/hel_dist/static/js/4.626478af.chunk.js"
       ],
       "staticCssSrcList": [
         "https://unpkg.com/tdesign-react@1.18.6/dist/tdesign.min.css"
@@ -81,21 +81,21 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-react-tdesign/hel_dist/static/js/runtime.92d22539.js"
+            "src": "/comps-react-tdesign/hel_dist/static/js/runtime.372f21e9.js"
           }
         },
         {
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-react-tdesign/hel_dist/static/js/vendor.b3119735.chunk.js"
+            "src": "/comps-react-tdesign/hel_dist/static/js/vendor.7e246cb4.chunk.js"
           }
         },
         {
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-react-tdesign/hel_dist/static/js/main.a4658b08.chunk.js"
+            "src": "/comps-react-tdesign/hel_dist/static/js/main.3a8827d3.chunk.js"
           }
         }
       ],
@@ -103,9 +103,9 @@
         "/comps-react-tdesign/hel_dist/asset-manifest.json",
         "/comps-react-tdesign/hel_dist/index.html",
         "/comps-react-tdesign/hel_dist/robots.txt",
-        "/comps-react-tdesign/hel_dist/static/js/vendor.b3119735.chunk.js.gz"
+        "/comps-react-tdesign/hel_dist/static/js/vendor.7e246cb4.chunk.js.gz"
       ]
     },
-    "html_content": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no\"/><title>comps-react-tdesign</title><script data-helappend=\"0\" src=\"https://unpkg.com/react@18.3.1/umd/react.production.min.js\"></script><script data-helappend=\"0\" src=\"https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js\"></script><meta name=\"description\" content=\"comps-react-tdesign powered by hel-micro\"/><link data-helappend=\"0\" rel=\"stylesheet\" href=\"https://unpkg.com/tdesign-react@1.18.6/dist/tdesign.min.css\"/><script data-helappend=\"0\" src=\"https://unpkg.com/tdesign-react@1.18.6/dist/tdesign.min.js\"></script></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id=\"root\"></div><script>console.log(\"test inline js\")</script><script src=\"/comps-react-tdesign/hel_dist/static/js/runtime.92d22539.js\"></script><script src=\"/comps-react-tdesign/hel_dist/static/js/vendor.b3119735.chunk.js\"></script><script src=\"/comps-react-tdesign/hel_dist/static/js/main.a4658b08.chunk.js\"></script></body></html>"
+    "html_content": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no\"/><title>comps-react-tdesign</title><script data-helappend=\"0\" src=\"https://unpkg.com/react@18.3.1/umd/react.production.min.js\"></script><script data-helappend=\"0\" src=\"https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js\"></script><meta name=\"description\" content=\"comps-react-tdesign powered by hel-micro\"/><link data-helappend=\"0\" rel=\"stylesheet\" href=\"https://unpkg.com/tdesign-react@1.18.6/dist/tdesign.min.css\"/><script data-helappend=\"0\" src=\"https://unpkg.com/tdesign-react@1.18.6/dist/tdesign.min.js\"></script></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id=\"root\"></div><script>console.log(\"test inline js\")</script><script src=\"/comps-react-tdesign/hel_dist/static/js/runtime.372f21e9.js\"></script><script src=\"/comps-react-tdesign/hel_dist/static/js/vendor.7e246cb4.chunk.js\"></script><script src=\"/comps-react-tdesign/hel_dist/static/js/main.3a8827d3.chunk.js\"></script></body></html>"
   }
 }
