@@ -1,18 +1,18 @@
 {
   "files": {
-    "vendor.js": "/comps-react-tdesign/hel_dist/static/js/vendor.7e246cb4.chunk.js",
-    "main.js": "/comps-react-tdesign/hel_dist/static/js/main.3a8827d3.chunk.js",
-    "runtime.js": "/comps-react-tdesign/hel_dist/static/js/runtime.372f21e9.js",
+    "vendor.js": "/comps-react-tdesign/hel_dist/static/js/vendor.8999d97a.chunk.js",
+    "main.js": "/comps-react-tdesign/hel_dist/static/js/main.5e325293.chunk.js",
+    "runtime.js": "/comps-react-tdesign/hel_dist/static/js/runtime.86890c9e.js",
     "static/css/3.2fa4b586.chunk.css": "/comps-react-tdesign/hel_dist/static/css/3.2fa4b586.chunk.css",
-    "static/js/3.d16d95ad.chunk.js": "/comps-react-tdesign/hel_dist/static/js/3.d16d95ad.chunk.js",
+    "static/js/3.c71c30da.chunk.js": "/comps-react-tdesign/hel_dist/static/js/3.c71c30da.chunk.js",
     "static/css/4.2fa4b586.chunk.css": "/comps-react-tdesign/hel_dist/static/css/4.2fa4b586.chunk.css",
-    "static/js/4.626478af.chunk.js": "/comps-react-tdesign/hel_dist/static/js/4.626478af.chunk.js",
+    "static/js/4.c59d10bd.chunk.js": "/comps-react-tdesign/hel_dist/static/js/4.c59d10bd.chunk.js",
     "index.html": "/comps-react-tdesign/hel_dist/index.html",
-    "static/js/vendor.7e246cb4.chunk.js.gz": "/comps-react-tdesign/hel_dist/static/js/vendor.7e246cb4.chunk.js.gz"
+    "static/js/vendor.8999d97a.chunk.js.gz": "/comps-react-tdesign/hel_dist/static/js/vendor.8999d97a.chunk.js.gz"
   },
   "entrypoints": [
-    "static/js/runtime.372f21e9.js",
-    "static/js/vendor.7e246cb4.chunk.js",
-    "static/js/main.3a8827d3.chunk.js"
+    "static/js/runtime.86890c9e.js",
+    "static/js/vendor.8999d97a.chunk.js",
+    "static/js/main.5e325293.chunk.js"
   ]
 }
